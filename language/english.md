@@ -46,7 +46,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 - [Installation instructions](https://github.com/Icesito68/Port-Windows-11-Lg-G8x/blob/main/guide/English/1-Partitions.md)
 
-- [Uninstall instructions](guide/english/uninstall.md)
+- [Uninstall instructions](https://github.com/Icesito68/Port-Windows-11-Lge-devices/blob/Lg-G8x/guide/English/Uninstall.md)
 
 
 ## Miscellaneous
